@@ -16,6 +16,6 @@ Used icon theme in the screenshots is Numix Icon Theme Circle - https://github.c
 
 #### Screenshot
 
-![Screenshot](./numix-touch-flat.png?raw=true)
+![Screenshot](./screenshot.png?raw=true)
 
 Thanks for making this possible!
